@@ -1,0 +1,29 @@
+27-Aug-2016 10:42:59 AM >>> website started
+27-Aug-2016 10:42:59 AM >>> upload button clicked
+27-Aug-2016 10:43:00 AM >>> file uploaded successfully
+27-Aug-2016 10:43:00 AM >>> file uploaded successfully
+27-Aug-2016 10:43:00 AM >>> file uploaded successfully
+27-Aug-2016 10:43:03 AM >>> language selected
+27-Aug-2016 10:43:07 AM >>> translate button clicked
+27-Aug-2016 10:43:19 AM >>> save translated file
+27-Aug-2016 10:43:39 AM >>> file copied
+27-Aug-2016 10:44:23 AM >>> website started
+27-Aug-2016 10:44:23 AM >>> upload button clicked
+27-Aug-2016 10:44:24 AM >>> file uploaded successfully
+27-Aug-2016 10:44:24 AM >>> file uploaded successfully
+27-Aug-2016 10:44:24 AM >>> file uploaded successfully
+27-Aug-2016 10:44:24 AM >>> file uploaded successfully
+27-Aug-2016 10:44:29 AM >>> language selected
+27-Aug-2016 10:44:32 AM >>> translate button clicked
+27-Aug-2016 10:44:39 AM >>> save translated file
+27-Aug-2016 10:44:51 AM >>> file copied
+27-Aug-2016 10:45:31 AM >>> website started
+27-Aug-2016 10:45:31 AM >>> upload button clicked
+27-Aug-2016 10:45:32 AM >>> file uploaded successfully
+27-Aug-2016 10:45:32 AM >>> file uploaded successfully
+27-Aug-2016 10:45:32 AM >>> file uploaded successfully
+27-Aug-2016 10:45:32 AM >>> file uploaded successfully
+27-Aug-2016 10:45:37 AM >>> language selected
+27-Aug-2016 10:45:42 AM >>> translate button clicked
+27-Aug-2016 10:45:47 AM >>> save translated file
+27-Aug-2016 10:45:54 AM >>> file copied

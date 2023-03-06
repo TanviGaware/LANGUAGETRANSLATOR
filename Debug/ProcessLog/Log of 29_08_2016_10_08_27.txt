@@ -1,0 +1,500 @@
+29-Aug-2016 10:08:37 AM >>> website started
+29-Aug-2016 10:08:38 AM >>> upload button clicked
+29-Aug-2016 10:08:38 AM >>> file uploaded successfully
+29-Aug-2016 10:08:38 AM >>> file uploaded successfully
+29-Aug-2016 10:08:38 AM >>> file uploaded successfully
+29-Aug-2016 10:08:44 AM >>> language selected
+29-Aug-2016 10:08:48 AM >>> translate button clicked
+29-Aug-2016 10:09:00 AM >>> save translated file
+29-Aug-2016 10:09:26 AM >>> file copied
+29-Aug-2016 10:10:01 AM >>> website started
+29-Aug-2016 10:10:01 AM >>> upload button clicked
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:02 AM >>> file uploaded successfully
+29-Aug-2016 10:10:07 AM >>> language selected
+29-Aug-2016 10:10:11 AM >>> translate button clicked
+29-Aug-2016 10:10:22 AM >>> save translated file
+29-Aug-2016 10:10:25 AM >>> file copied
+29-Aug-2016 10:11:05 AM >>> website started
+29-Aug-2016 10:11:05 AM >>> upload button clicked
+29-Aug-2016 10:11:06 AM >>> file uploaded successfully
+29-Aug-2016 10:11:06 AM >>> file uploaded successfully
+29-Aug-2016 10:11:11 AM >>> language selected
+29-Aug-2016 10:11:15 AM >>> translate button clicked
+29-Aug-2016 10:11:24 AM >>> save translated file
+29-Aug-2016 10:11:27 AM >>> file copied
+29-Aug-2016 10:12:03 AM >>> website started
+29-Aug-2016 10:12:04 AM >>> upload button clicked
+29-Aug-2016 10:12:04 AM >>> file uploaded successfully
+29-Aug-2016 10:12:04 AM >>> file uploaded successfully
+29-Aug-2016 10:12:07 AM >>> language selected
+29-Aug-2016 10:12:13 AM >>> translate button clicked
+29-Aug-2016 10:12:43 AM >>> save translated file
+29-Aug-2016 10:12:46 AM >>> file copied
+29-Aug-2016 10:13:25 AM >>> website started
+29-Aug-2016 10:13:26 AM >>> upload button clicked
+29-Aug-2016 10:13:26 AM >>> file uploaded successfully
+29-Aug-2016 10:13:26 AM >>> file uploaded successfully
+29-Aug-2016 10:13:26 AM >>> file uploaded successfully
+29-Aug-2016 10:13:26 AM >>> file uploaded successfully
+29-Aug-2016 10:13:30 AM >>> language selected
+29-Aug-2016 10:13:33 AM >>> translate button clicked
+29-Aug-2016 10:13:40 AM >>> save translated file
+29-Aug-2016 10:13:43 AM >>> file copied
+29-Aug-2016 10:14:20 AM >>> website started
+29-Aug-2016 10:14:20 AM >>> upload button clicked
+29-Aug-2016 10:14:21 AM >>> file uploaded successfully
+29-Aug-2016 10:14:21 AM >>> file uploaded successfully
+29-Aug-2016 10:14:21 AM >>> file uploaded successfully
+29-Aug-2016 10:14:26 AM >>> language selected
+29-Aug-2016 10:14:30 AM >>> translate button clicked
+29-Aug-2016 10:14:36 AM >>> save translated file
+29-Aug-2016 10:14:39 AM >>> file copied
+29-Aug-2016 10:15:15 AM >>> website started
+29-Aug-2016 10:15:15 AM >>> upload button clicked
+29-Aug-2016 10:15:15 AM >>> file uploaded successfully
+29-Aug-2016 10:15:16 AM >>> file uploaded successfully
+29-Aug-2016 10:15:16 AM >>> file uploaded successfully
+29-Aug-2016 10:15:16 AM >>> file uploaded successfully
+29-Aug-2016 10:15:20 AM >>> language selected
+29-Aug-2016 10:15:27 AM >>> translate button clicked
+29-Aug-2016 10:15:31 AM >>> save translated file
+29-Aug-2016 10:15:34 AM >>> file copied
+29-Aug-2016 10:16:10 AM >>> website started
+29-Aug-2016 10:16:11 AM >>> upload button clicked
+29-Aug-2016 10:16:11 AM >>> file uploaded successfully
+29-Aug-2016 10:16:11 AM >>> file uploaded successfully
+29-Aug-2016 10:16:11 AM >>> file uploaded successfully
+29-Aug-2016 10:16:11 AM >>> file uploaded successfully
+29-Aug-2016 10:16:16 AM >>> language selected
+29-Aug-2016 10:16:19 AM >>> translate button clicked
+29-Aug-2016 10:16:27 AM >>> save translated file
+29-Aug-2016 10:16:30 AM >>> file copied
+29-Aug-2016 10:17:08 AM >>> website started
+29-Aug-2016 10:17:08 AM >>> upload button clicked
+29-Aug-2016 10:17:09 AM >>> file uploaded successfully
+29-Aug-2016 10:17:09 AM >>> file uploaded successfully
+29-Aug-2016 10:17:09 AM >>> file uploaded successfully
+29-Aug-2016 10:17:09 AM >>> file uploaded successfully
+29-Aug-2016 10:17:09 AM >>> file uploaded successfully
+29-Aug-2016 10:17:09 AM >>> file uploaded successfully
+29-Aug-2016 10:17:14 AM >>> language selected
+29-Aug-2016 10:17:22 AM >>> translate button clicked
+29-Aug-2016 10:17:26 AM >>> save translated file
+29-Aug-2016 10:17:29 AM >>> file copied
+29-Aug-2016 10:18:07 AM >>> website started
+29-Aug-2016 10:18:07 AM >>> upload button clicked
+29-Aug-2016 10:18:08 AM >>> file uploaded successfully
+29-Aug-2016 10:18:08 AM >>> file uploaded successfully
+29-Aug-2016 10:18:08 AM >>> file uploaded successfully
+29-Aug-2016 10:18:08 AM >>> file uploaded successfully
+29-Aug-2016 10:18:12 AM >>> language selected
+29-Aug-2016 10:18:19 AM >>> translate button clicked
+29-Aug-2016 10:18:23 AM >>> save translated file
+29-Aug-2016 10:18:26 AM >>> file copied
+29-Aug-2016 10:19:02 AM >>> website started
+29-Aug-2016 10:19:02 AM >>> upload button clicked
+29-Aug-2016 10:19:03 AM >>> file uploaded successfully
+29-Aug-2016 10:19:03 AM >>> file uploaded successfully
+29-Aug-2016 10:19:03 AM >>> file uploaded successfully
+29-Aug-2016 10:19:03 AM >>> file uploaded successfully
+29-Aug-2016 10:19:03 AM >>> file uploaded successfully
+29-Aug-2016 10:19:06 AM >>> language selected
+29-Aug-2016 10:19:15 AM >>> translate button clicked
+29-Aug-2016 10:19:23 AM >>> save translated file
+29-Aug-2016 10:19:26 AM >>> file copied
+29-Aug-2016 10:20:08 AM >>> website started
+29-Aug-2016 10:20:08 AM >>> upload button clicked
+29-Aug-2016 10:20:09 AM >>> file uploaded successfully
+29-Aug-2016 10:20:09 AM >>> file uploaded successfully
+29-Aug-2016 10:20:09 AM >>> file uploaded successfully
+29-Aug-2016 10:20:15 AM >>> language selected
+29-Aug-2016 10:20:20 AM >>> translate button clicked
+29-Aug-2016 10:20:27 AM >>> save translated file
+29-Aug-2016 10:20:30 AM >>> file copied
+29-Aug-2016 10:20:37 AM >>> website started
+29-Aug-2016 10:20:38 AM >>> upload button clicked
+29-Aug-2016 10:20:38 AM >>> file uploaded successfully
+29-Aug-2016 10:20:38 AM >>> file uploaded successfully
+29-Aug-2016 10:20:38 AM >>> file uploaded successfully
+29-Aug-2016 10:20:38 AM >>> file uploaded successfully
+29-Aug-2016 10:20:43 AM >>> language selected
+29-Aug-2016 10:20:47 AM >>> translate button clicked
+29-Aug-2016 10:21:13 AM >>> save translated file
+29-Aug-2016 10:21:16 AM >>> file copied
+29-Aug-2016 10:21:52 AM >>> website started
+29-Aug-2016 10:21:52 AM >>> upload button clicked
+29-Aug-2016 10:21:53 AM >>> file uploaded successfully
+29-Aug-2016 10:21:53 AM >>> file uploaded successfully
+29-Aug-2016 10:21:53 AM >>> file uploaded successfully
+29-Aug-2016 10:21:53 AM >>> file uploaded successfully
+29-Aug-2016 10:21:56 AM >>> language selected
+29-Aug-2016 10:22:13 AM >>> translate button clicked
+29-Aug-2016 10:22:53 AM >>> save translated file
+29-Aug-2016 10:22:56 AM >>> file copied
+29-Aug-2016 10:23:37 AM >>> website started
+29-Aug-2016 10:23:37 AM >>> upload button clicked
+29-Aug-2016 10:23:38 AM >>> file uploaded successfully
+29-Aug-2016 10:23:38 AM >>> file uploaded successfully
+29-Aug-2016 10:23:38 AM >>> file uploaded successfully
+29-Aug-2016 10:23:38 AM >>> file uploaded successfully
+29-Aug-2016 10:23:42 AM >>> language selected
+29-Aug-2016 10:23:45 AM >>> translate button clicked
+29-Aug-2016 10:23:52 AM >>> save translated file
+29-Aug-2016 10:23:55 AM >>> file copied
+29-Aug-2016 10:24:33 AM >>> website started
+29-Aug-2016 10:24:33 AM >>> upload button clicked
+29-Aug-2016 10:24:34 AM >>> file uploaded successfully
+29-Aug-2016 10:24:34 AM >>> file uploaded successfully
+29-Aug-2016 10:24:34 AM >>> file uploaded successfully
+29-Aug-2016 10:24:34 AM >>> file uploaded successfully
+29-Aug-2016 10:24:34 AM >>> file uploaded successfully
+29-Aug-2016 10:24:39 AM >>> language selected
+29-Aug-2016 10:24:47 AM >>> translate button clicked
+29-Aug-2016 10:24:50 AM >>> save translated file
+29-Aug-2016 10:24:53 AM >>> file copied
+29-Aug-2016 10:25:28 AM >>> website started
+29-Aug-2016 10:25:29 AM >>> upload button clicked
+29-Aug-2016 10:25:29 AM >>> file uploaded successfully
+29-Aug-2016 10:25:29 AM >>> file uploaded successfully
+29-Aug-2016 10:25:29 AM >>> file uploaded successfully
+29-Aug-2016 10:25:29 AM >>> file uploaded successfully
+29-Aug-2016 10:25:34 AM >>> language selected
+29-Aug-2016 10:25:37 AM >>> translate button clicked
+29-Aug-2016 10:25:44 AM >>> save translated file
+29-Aug-2016 10:25:47 AM >>> file copied
+29-Aug-2016 10:26:22 AM >>> website started
+29-Aug-2016 10:26:23 AM >>> upload button clicked
+29-Aug-2016 10:26:23 AM >>> file uploaded successfully
+29-Aug-2016 10:26:23 AM >>> file uploaded successfully
+29-Aug-2016 10:26:23 AM >>> file uploaded successfully
+29-Aug-2016 10:26:28 AM >>> language selected
+29-Aug-2016 10:26:31 AM >>> translate button clicked
+29-Aug-2016 10:26:38 AM >>> save translated file
+29-Aug-2016 10:26:41 AM >>> file copied
+29-Aug-2016 10:27:19 AM >>> website started
+29-Aug-2016 10:27:19 AM >>> upload button clicked
+29-Aug-2016 10:27:20 AM >>> file uploaded successfully
+29-Aug-2016 10:27:20 AM >>> file uploaded successfully
+29-Aug-2016 10:27:20 AM >>> file uploaded successfully
+29-Aug-2016 10:27:20 AM >>> file uploaded successfully
+29-Aug-2016 10:27:25 AM >>> language selected
+29-Aug-2016 10:27:29 AM >>> translate button clicked
+29-Aug-2016 10:27:35 AM >>> save translated file
+29-Aug-2016 10:27:38 AM >>> file copied
+29-Aug-2016 10:28:14 AM >>> website started
+29-Aug-2016 10:28:14 AM >>> upload button clicked
+29-Aug-2016 10:28:15 AM >>> file uploaded successfully
+29-Aug-2016 10:28:15 AM >>> file uploaded successfully
+29-Aug-2016 10:28:15 AM >>> file uploaded successfully
+29-Aug-2016 10:28:19 AM >>> language selected
+29-Aug-2016 10:28:22 AM >>> translate button clicked
+29-Aug-2016 10:28:29 AM >>> save translated file
+29-Aug-2016 10:28:32 AM >>> file copied
+29-Aug-2016 10:29:13 AM >>> website started
+29-Aug-2016 10:29:13 AM >>> upload button clicked
+29-Aug-2016 10:29:14 AM >>> file uploaded successfully
+29-Aug-2016 10:29:14 AM >>> file uploaded successfully
+29-Aug-2016 10:29:14 AM >>> file uploaded successfully
+29-Aug-2016 10:29:19 AM >>> language selected
+29-Aug-2016 10:29:23 AM >>> translate button clicked
+29-Aug-2016 10:29:33 AM >>> save translated file
+29-Aug-2016 10:29:36 AM >>> file copied
+29-Aug-2016 10:30:12 AM >>> website started
+29-Aug-2016 10:30:12 AM >>> upload button clicked
+29-Aug-2016 10:30:13 AM >>> file uploaded successfully
+29-Aug-2016 10:30:13 AM >>> file uploaded successfully
+29-Aug-2016 10:30:13 AM >>> file uploaded successfully
+29-Aug-2016 10:30:13 AM >>> file uploaded successfully
+29-Aug-2016 10:30:18 AM >>> language selected
+29-Aug-2016 10:30:21 AM >>> translate button clicked
+29-Aug-2016 10:30:32 AM >>> save translated file
+29-Aug-2016 10:30:35 AM >>> file copied
+29-Aug-2016 10:31:14 AM >>> website started
+29-Aug-2016 10:31:14 AM >>> upload button clicked
+29-Aug-2016 10:31:15 AM >>> file uploaded successfully
+29-Aug-2016 10:31:15 AM >>> file uploaded successfully
+29-Aug-2016 10:31:15 AM >>> file uploaded successfully
+29-Aug-2016 10:31:15 AM >>> file uploaded successfully
+29-Aug-2016 10:31:20 AM >>> language selected
+29-Aug-2016 10:31:24 AM >>> translate button clicked
+29-Aug-2016 10:31:30 AM >>> save translated file
+29-Aug-2016 10:31:33 AM >>> file copied
+29-Aug-2016 10:32:13 AM >>> website started
+29-Aug-2016 10:32:13 AM >>> upload button clicked
+29-Aug-2016 10:32:14 AM >>> file uploaded successfully
+29-Aug-2016 10:32:14 AM >>> file uploaded successfully
+29-Aug-2016 10:32:14 AM >>> file uploaded successfully
+29-Aug-2016 10:32:14 AM >>> file uploaded successfully
+29-Aug-2016 10:32:19 AM >>> language selected
+29-Aug-2016 10:32:25 AM >>> translate button clicked
+29-Aug-2016 10:32:34 AM >>> save translated file
+29-Aug-2016 10:32:38 AM >>> file copied
+29-Aug-2016 10:33:18 AM >>> website started
+29-Aug-2016 10:33:18 AM >>> upload button clicked
+29-Aug-2016 10:33:19 AM >>> file uploaded successfully
+29-Aug-2016 10:33:19 AM >>> file uploaded successfully
+29-Aug-2016 10:33:19 AM >>> file uploaded successfully
+29-Aug-2016 10:33:19 AM >>> file uploaded successfully
+29-Aug-2016 10:33:25 AM >>> language selected
+29-Aug-2016 10:33:29 AM >>> translate button clicked
+29-Aug-2016 10:33:34 AM >>> save translated file
+29-Aug-2016 10:33:38 AM >>> file copied
+29-Aug-2016 10:34:15 AM >>> website started
+29-Aug-2016 10:34:15 AM >>> upload button clicked
+29-Aug-2016 10:34:16 AM >>> file uploaded successfully
+29-Aug-2016 10:34:16 AM >>> file uploaded successfully
+29-Aug-2016 10:34:16 AM >>> file uploaded successfully
+29-Aug-2016 10:34:16 AM >>> file uploaded successfully
+29-Aug-2016 10:34:16 AM >>> file uploaded successfully
+29-Aug-2016 10:34:21 AM >>> language selected
+29-Aug-2016 10:34:24 AM >>> translate button clicked
+29-Aug-2016 10:34:31 AM >>> save translated file
+29-Aug-2016 10:34:34 AM >>> file copied
+29-Aug-2016 10:34:44 AM >>> website started
+29-Aug-2016 10:34:44 AM >>> upload button clicked
+29-Aug-2016 10:34:45 AM >>> file uploaded successfully
+29-Aug-2016 10:34:45 AM >>> file uploaded successfully
+29-Aug-2016 10:34:45 AM >>> file uploaded successfully
+29-Aug-2016 10:34:45 AM >>> file uploaded successfully
+29-Aug-2016 10:34:45 AM >>> file uploaded successfully
+29-Aug-2016 10:34:45 AM >>> file uploaded successfully
+29-Aug-2016 10:34:50 AM >>> language selected
+29-Aug-2016 10:34:55 AM >>> translate button clicked
+29-Aug-2016 10:35:00 AM >>> save translated file
+29-Aug-2016 10:35:03 AM >>> file copied
+29-Aug-2016 10:35:39 AM >>> website started
+29-Aug-2016 10:35:39 AM >>> upload button clicked
+29-Aug-2016 10:35:40 AM >>> file uploaded successfully
+29-Aug-2016 10:35:40 AM >>> file uploaded successfully
+29-Aug-2016 10:35:40 AM >>> file uploaded successfully
+29-Aug-2016 10:35:40 AM >>> file uploaded successfully
+29-Aug-2016 10:35:45 AM >>> language selected
+29-Aug-2016 10:35:49 AM >>> translate button clicked
+29-Aug-2016 10:35:55 AM >>> save translated file
+29-Aug-2016 10:35:58 AM >>> file copied
+29-Aug-2016 10:36:38 AM >>> website started
+29-Aug-2016 10:36:38 AM >>> upload button clicked
+29-Aug-2016 10:36:39 AM >>> file uploaded successfully
+29-Aug-2016 10:36:39 AM >>> file uploaded successfully
+29-Aug-2016 10:36:39 AM >>> file uploaded successfully
+29-Aug-2016 10:36:39 AM >>> file uploaded successfully
+29-Aug-2016 10:36:45 AM >>> language selected
+29-Aug-2016 10:36:48 AM >>> translate button clicked
+29-Aug-2016 10:36:55 AM >>> save translated file
+29-Aug-2016 10:36:58 AM >>> file copied
+29-Aug-2016 10:37:36 AM >>> website started
+29-Aug-2016 10:37:36 AM >>> upload button clicked
+29-Aug-2016 10:37:37 AM >>> file uploaded successfully
+29-Aug-2016 10:37:37 AM >>> file uploaded successfully
+29-Aug-2016 10:37:37 AM >>> file uploaded successfully
+29-Aug-2016 10:37:42 AM >>> language selected
+29-Aug-2016 10:37:49 AM >>> translate button clicked
+29-Aug-2016 10:37:52 AM >>> save translated file
+29-Aug-2016 10:37:55 AM >>> file copied
+29-Aug-2016 10:38:39 AM >>> website started
+29-Aug-2016 10:38:39 AM >>> upload button clicked
+29-Aug-2016 10:38:40 AM >>> file uploaded successfully
+29-Aug-2016 10:38:40 AM >>> file uploaded successfully
+29-Aug-2016 10:38:40 AM >>> file uploaded successfully
+29-Aug-2016 10:38:46 AM >>> language selected
+29-Aug-2016 10:38:52 AM >>> translate button clicked
+29-Aug-2016 10:39:00 AM >>> save translated file
+29-Aug-2016 10:39:03 AM >>> file copied
+29-Aug-2016 10:39:42 AM >>> website started
+29-Aug-2016 10:39:42 AM >>> upload button clicked
+29-Aug-2016 10:39:43 AM >>> file uploaded successfully
+29-Aug-2016 10:39:43 AM >>> file uploaded successfully
+29-Aug-2016 10:39:43 AM >>> file uploaded successfully
+29-Aug-2016 10:39:43 AM >>> file uploaded successfully
+29-Aug-2016 10:39:43 AM >>> file uploaded successfully
+29-Aug-2016 10:39:48 AM >>> language selected
+29-Aug-2016 10:39:58 AM >>> translate button clicked
+29-Aug-2016 10:40:03 AM >>> save translated file
+29-Aug-2016 10:40:06 AM >>> file copied
+29-Aug-2016 10:40:42 AM >>> website started
+29-Aug-2016 10:40:42 AM >>> upload button clicked
+29-Aug-2016 10:40:43 AM >>> file uploaded successfully
+29-Aug-2016 10:40:43 AM >>> file uploaded successfully
+29-Aug-2016 10:40:43 AM >>> file uploaded successfully
+29-Aug-2016 10:40:43 AM >>> file uploaded successfully
+29-Aug-2016 10:40:47 AM >>> language selected
+29-Aug-2016 10:40:56 AM >>> translate button clicked
+29-Aug-2016 10:41:04 AM >>> save translated file
+29-Aug-2016 10:41:07 AM >>> file copied
+29-Aug-2016 10:41:43 AM >>> website started
+29-Aug-2016 10:41:43 AM >>> upload button clicked
+29-Aug-2016 10:41:44 AM >>> file uploaded successfully
+29-Aug-2016 10:41:44 AM >>> file uploaded successfully
+29-Aug-2016 10:41:44 AM >>> file uploaded successfully
+29-Aug-2016 10:41:44 AM >>> file uploaded successfully
+29-Aug-2016 10:41:44 AM >>> file uploaded successfully
+29-Aug-2016 10:41:50 AM >>> language selected
+29-Aug-2016 10:41:58 AM >>> translate button clicked
+29-Aug-2016 10:42:07 AM >>> save translated file
+29-Aug-2016 10:42:10 AM >>> file copied
+29-Aug-2016 10:42:46 AM >>> website started
+29-Aug-2016 10:42:46 AM >>> upload button clicked
+29-Aug-2016 10:42:46 AM >>> file uploaded successfully
+29-Aug-2016 10:42:47 AM >>> file uploaded successfully
+29-Aug-2016 10:42:47 AM >>> file uploaded successfully
+29-Aug-2016 10:42:52 AM >>> language selected
+29-Aug-2016 10:43:01 AM >>> translate button clicked
+29-Aug-2016 10:43:11 AM >>> save translated file
+29-Aug-2016 10:43:14 AM >>> file copied
+29-Aug-2016 10:43:53 AM >>> website started
+29-Aug-2016 10:43:53 AM >>> upload button clicked
+29-Aug-2016 10:43:54 AM >>> file uploaded successfully
+29-Aug-2016 10:43:54 AM >>> file uploaded successfully
+29-Aug-2016 10:43:54 AM >>> file uploaded successfully
+29-Aug-2016 10:44:00 AM >>> language selected
+29-Aug-2016 10:44:12 AM >>> translate button clicked
+29-Aug-2016 10:44:16 AM >>> save translated file
+29-Aug-2016 10:44:19 AM >>> file copied
+29-Aug-2016 10:44:55 AM >>> website started
+29-Aug-2016 10:44:55 AM >>> upload button clicked
+29-Aug-2016 10:44:56 AM >>> file uploaded successfully
+29-Aug-2016 10:44:56 AM >>> file uploaded successfully
+29-Aug-2016 10:44:56 AM >>> file uploaded successfully
+29-Aug-2016 10:44:56 AM >>> file uploaded successfully
+29-Aug-2016 10:45:02 AM >>> language selected
+29-Aug-2016 10:45:09 AM >>> translate button clicked
+29-Aug-2016 10:45:13 AM >>> save translated file
+29-Aug-2016 10:45:16 AM >>> file copied
+29-Aug-2016 10:45:52 AM >>> website started
+29-Aug-2016 10:45:52 AM >>> upload button clicked
+29-Aug-2016 10:45:53 AM >>> file uploaded successfully
+29-Aug-2016 10:45:53 AM >>> file uploaded successfully
+29-Aug-2016 10:45:53 AM >>> file uploaded successfully
+29-Aug-2016 10:45:58 AM >>> language selected
+29-Aug-2016 10:46:06 AM >>> translate button clicked
+29-Aug-2016 10:46:11 AM >>> save translated file
+29-Aug-2016 10:46:14 AM >>> file copied
+29-Aug-2016 10:46:50 AM >>> website started
+29-Aug-2016 10:46:50 AM >>> upload button clicked
+29-Aug-2016 10:46:51 AM >>> file uploaded successfully
+29-Aug-2016 10:46:51 AM >>> file uploaded successfully
+29-Aug-2016 10:46:57 AM >>> language selected
+29-Aug-2016 10:47:04 AM >>> translate button clicked
+29-Aug-2016 10:47:07 AM >>> save translated file
+29-Aug-2016 10:47:10 AM >>> file copied
+29-Aug-2016 10:47:46 AM >>> website started
+29-Aug-2016 10:47:47 AM >>> upload button clicked
+29-Aug-2016 10:47:47 AM >>> file uploaded successfully
+29-Aug-2016 10:47:47 AM >>> file uploaded successfully
+29-Aug-2016 10:47:47 AM >>> file uploaded successfully
+29-Aug-2016 10:47:48 AM >>> file uploaded successfully
+29-Aug-2016 10:47:53 AM >>> language selected
+29-Aug-2016 10:47:56 AM >>> translate button clicked
+29-Aug-2016 10:48:02 AM >>> save translated file
+29-Aug-2016 10:48:05 AM >>> file copied
+29-Aug-2016 10:48:13 AM >>> website started
+29-Aug-2016 10:48:13 AM >>> upload button clicked
+29-Aug-2016 10:48:14 AM >>> file uploaded successfully
+29-Aug-2016 10:48:14 AM >>> file uploaded successfully
+29-Aug-2016 10:48:14 AM >>> file uploaded successfully
+29-Aug-2016 10:48:20 AM >>> language selected
+29-Aug-2016 10:48:25 AM >>> translate button clicked
+29-Aug-2016 10:48:31 AM >>> save translated file
+29-Aug-2016 10:48:34 AM >>> file copied
+29-Aug-2016 10:49:13 AM >>> website started
+29-Aug-2016 10:49:13 AM >>> upload button clicked
+29-Aug-2016 10:49:14 AM >>> file uploaded successfully
+29-Aug-2016 10:49:14 AM >>> file uploaded successfully
+29-Aug-2016 10:49:14 AM >>> file uploaded successfully
+29-Aug-2016 10:49:19 AM >>> language selected
+29-Aug-2016 10:49:26 AM >>> translate button clicked
+29-Aug-2016 10:49:31 AM >>> save translated file
+29-Aug-2016 10:49:34 AM >>> file copied
+29-Aug-2016 10:50:11 AM >>> website started
+29-Aug-2016 10:50:11 AM >>> upload button clicked
+29-Aug-2016 10:50:12 AM >>> file uploaded successfully
+29-Aug-2016 10:50:12 AM >>> file uploaded successfully
+29-Aug-2016 10:50:12 AM >>> file uploaded successfully
+29-Aug-2016 10:50:12 AM >>> file uploaded successfully
+29-Aug-2016 10:50:16 AM >>> language selected
+29-Aug-2016 10:50:20 AM >>> translate button clicked
+29-Aug-2016 10:50:26 AM >>> save translated file
+29-Aug-2016 10:50:29 AM >>> file copied
+29-Aug-2016 10:51:10 AM >>> website started
+29-Aug-2016 10:51:10 AM >>> upload button clicked
+29-Aug-2016 10:51:11 AM >>> file uploaded successfully
+29-Aug-2016 10:51:11 AM >>> file uploaded successfully
+29-Aug-2016 10:51:11 AM >>> file uploaded successfully
+29-Aug-2016 10:51:15 AM >>> language selected
+29-Aug-2016 10:51:22 AM >>> translate button clicked
+29-Aug-2016 10:51:28 AM >>> save translated file
+29-Aug-2016 10:51:31 AM >>> file copied
+29-Aug-2016 10:52:07 AM >>> website started
+29-Aug-2016 10:52:07 AM >>> upload button clicked
+29-Aug-2016 10:52:08 AM >>> file uploaded successfully
+29-Aug-2016 10:52:08 AM >>> file uploaded successfully
+29-Aug-2016 10:52:08 AM >>> file uploaded successfully
+29-Aug-2016 10:52:08 AM >>> file uploaded successfully
+29-Aug-2016 10:52:11 AM >>> language selected
+29-Aug-2016 10:52:21 AM >>> translate button clicked
+29-Aug-2016 10:52:33 AM >>> save translated file
+29-Aug-2016 10:52:36 AM >>> file copied
+29-Aug-2016 10:53:12 AM >>> website started
+29-Aug-2016 10:53:12 AM >>> upload button clicked
+29-Aug-2016 10:53:13 AM >>> file uploaded successfully
+29-Aug-2016 10:53:13 AM >>> file uploaded successfully
+29-Aug-2016 10:53:13 AM >>> file uploaded successfully
+29-Aug-2016 10:53:13 AM >>> file uploaded successfully
+29-Aug-2016 10:53:13 AM >>> file uploaded successfully
+29-Aug-2016 10:53:19 AM >>> language selected
+29-Aug-2016 10:53:23 AM >>> translate button clicked
+29-Aug-2016 10:53:28 AM >>> save translated file
+29-Aug-2016 10:53:31 AM >>> file copied
+29-Aug-2016 10:54:07 AM >>> website started
+29-Aug-2016 10:54:07 AM >>> upload button clicked
+29-Aug-2016 10:54:08 AM >>> file uploaded successfully
+29-Aug-2016 10:54:08 AM >>> file uploaded successfully
+29-Aug-2016 10:54:08 AM >>> file uploaded successfully
+29-Aug-2016 10:54:08 AM >>> file uploaded successfully
+29-Aug-2016 10:54:08 AM >>> file uploaded successfully
+29-Aug-2016 10:54:14 AM >>> language selected
+29-Aug-2016 10:54:21 AM >>> translate button clicked
+29-Aug-2016 10:54:24 AM >>> save translated file
+29-Aug-2016 10:54:28 AM >>> file copied
+29-Aug-2016 10:55:04 AM >>> website started
+29-Aug-2016 10:55:04 AM >>> upload button clicked
+29-Aug-2016 10:55:05 AM >>> file uploaded successfully
+29-Aug-2016 10:55:05 AM >>> file uploaded successfully
+29-Aug-2016 10:55:05 AM >>> file uploaded successfully
+29-Aug-2016 10:55:05 AM >>> file uploaded successfully
+29-Aug-2016 10:55:05 AM >>> file uploaded successfully
+29-Aug-2016 10:55:10 AM >>> language selected
+29-Aug-2016 10:55:19 AM >>> translate button clicked
+29-Aug-2016 10:55:25 AM >>> save translated file
+29-Aug-2016 10:55:28 AM >>> file copied
+29-Aug-2016 10:56:04 AM >>> website started
+29-Aug-2016 10:56:05 AM >>> upload button clicked
+29-Aug-2016 10:56:05 AM >>> file uploaded successfully
+29-Aug-2016 10:56:05 AM >>> file uploaded successfully
+29-Aug-2016 10:56:05 AM >>> file uploaded successfully
+29-Aug-2016 10:56:10 AM >>> language selected
+29-Aug-2016 10:56:16 AM >>> translate button clicked
+29-Aug-2016 10:56:20 AM >>> save translated file
+29-Aug-2016 10:56:23 AM >>> file copied
+29-Aug-2016 10:57:04 AM >>> website started
+29-Aug-2016 10:57:04 AM >>> upload button clicked
+29-Aug-2016 10:57:05 AM >>> file uploaded successfully
+29-Aug-2016 10:57:05 AM >>> file uploaded successfully
+29-Aug-2016 10:57:05 AM >>> file uploaded successfully
+29-Aug-2016 10:57:05 AM >>> file uploaded successfully
+29-Aug-2016 10:57:05 AM >>> file uploaded successfully
+29-Aug-2016 10:57:10 AM >>> language selected
+29-Aug-2016 10:57:16 AM >>> translate button clicked
+29-Aug-2016 10:57:21 AM >>> save translated file
+29-Aug-2016 10:57:24 AM >>> file copied

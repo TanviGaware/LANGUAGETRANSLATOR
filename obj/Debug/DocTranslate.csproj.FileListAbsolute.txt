@@ -1,0 +1,120 @@
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\bin\Debug\DocTranslate.exe.config
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\bin\Debug\DocTranslate.exe
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\bin\Debug\DocTranslate.pdb
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\bin\Debug\WatiN.Core.dll
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\bin\Debug\Interop.AutoItX3Lib.dll
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.ResolveComReference.cache
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form1.resources
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Properties.Resources.resources
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.GenerateResource.Cache
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\obj\Debug\DocTranslate.exe
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\obj\Debug\DocTranslate.pdb
+C:\Users\shruti.rakhe\Documents\Visual Studio 2012\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csprojResolveAssemblyReference.cache
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\bin\Debug\DocTranslate.exe.config
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\obj\Debug\Interop.AutoItX3Lib.dll
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.ResolveComReference.cache
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\obj\Debug\DocTranslate.exe
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\obj\Debug\DocTranslate.pdb
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\bin\Debug\DocTranslate.exe
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\bin\Debug\DocTranslate.pdb
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\bin\Debug\WatiN.Core.dll
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\bin\Debug\Interop.AutoItX3Lib.dll
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csprojResolveAssemblyReference.cache
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form1.resources
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Properties.Resources.resources
+D:\Shruti\Document translator\mozilla and watin\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.GenerateResource.Cache
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\bin\Debug\DocTranslate.exe.config
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\obj\Debug\Interop.AutoItX3Lib.dll
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.ResolveComReference.cache
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\obj\Debug\DocTranslate.exe
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\obj\Debug\DocTranslate.pdb
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\bin\Debug\DocTranslate.exe
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\bin\Debug\DocTranslate.pdb
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\bin\Debug\WatiN.Core.dll
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\bin\Debug\Interop.AutoItX3Lib.dll
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form1.resources
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Properties.Resources.resources
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.GenerateResource.Cache
+D:\Shruti\Document translator\With selective copying from downloads to desired folder\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csprojResolveAssemblyReference.cache
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\bin\Debug\WatiN.Core.dll
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\bin\Debug\Interop.AutoItX3Lib.dll
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\obj\Debug\Interop.AutoItX3Lib.dll
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.ResolveComReference.cache
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form1.resources
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form2.resources
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\obj\Debug\UBSAPConnectivity.frmWait.resources
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Properties.Resources.resources
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.GenerateResource.Cache
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csprojResolveAssemblyReference.cache
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe.config
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.pdb
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.exe
+D:\Shruti\Document translator\Using Linq for selective copying\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.pdb
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe.config
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.pdb
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\bin\Debug\WatiN.Core.dll
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form1.resources
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form2.resources
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\obj\Debug\UBSAPConnectivity.frmWait.resources
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Properties.Resources.resources
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.GenerateResource.Cache
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.exe
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.pdb
+D:\SVN projects\Projects\Document Translation\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csprojResolveAssemblyReference.cache
+D:\SVN projects\Projects\Language Translator\Japanese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe.config
+D:\SVN projects\Projects\Language Translator\Japanese\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.exe
+D:\SVN projects\Projects\Language Translator\Japanese\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.pdb
+D:\SVN projects\Projects\Language Translator\Japanese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe
+D:\SVN projects\Projects\Language Translator\Japanese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.pdb
+D:\SVN projects\Projects\Language Translator\Japanese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csprojResolveAssemblyReference.cache
+D:\SVN projects\Projects\Language Translator\Japanese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form1.resources
+D:\SVN projects\Projects\Language Translator\Japanese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form2.resources
+D:\SVN projects\Projects\Language Translator\Japanese\DocTranslate\DocTranslate\obj\Debug\UBSAPConnectivity.frmWait.resources
+D:\SVN projects\Projects\Language Translator\Japanese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Properties.Resources.resources
+D:\SVN projects\Projects\Language Translator\Japanese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.GenerateResource.Cache
+D:\SVN projects\Projects\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe.config
+D:\SVN projects\Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.exe
+D:\SVN projects\Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.pdb
+D:\SVN projects\Projects\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe
+D:\SVN projects\Projects\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.pdb
+D:\SVN projects\Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form1.resources
+D:\SVN projects\Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form2.resources
+D:\SVN projects\Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\UBSAPConnectivity.frmWait.resources
+D:\SVN projects\Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Properties.Resources.resources
+D:\SVN projects\Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.GenerateResource.Cache
+D:\SVN projects\Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csprojResolveAssemblyReference.cache
+D:\SVN Projects\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe.config
+D:\SVN Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.exe
+D:\SVN Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.pdb
+D:\SVN Projects\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe
+D:\SVN Projects\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.pdb
+D:\SVN Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csprojResolveAssemblyReference.cache
+D:\SVN Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form1.resources
+D:\SVN Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form2.resources
+D:\SVN Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\UBSAPConnectivity.frmWait.resources
+D:\SVN Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Properties.Resources.resources
+D:\SVN Projects\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.GenerateResource.Cache
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe.config
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.exe
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.pdb
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csprojResolveAssemblyReference.cache
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form1.resources
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Form2.resources
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\UBSAPConnectivity.frmWait.resources
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.Properties.Resources.resources
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\obj\Debug\DocTranslate.csproj.GenerateResource.Cache
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.pdb
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\Microsoft.Web.XmlTransform.dll
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\NuGet.Core.dll
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\WebDriver.dll
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\WebDriver.Support.dll
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\XCrypt.dll
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\WebDriver.xml
+D:\Language Translator\Language Translator\Chinese\DocTranslate\DocTranslate\bin\Debug\WebDriver.Support.xml
+D:\Language Translator\DocTranslate\DocTranslate\bin\Debug\Chinese DOC Translator.exe.config
+D:\Language Translator\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.exe
+D:\Language Translator\DocTranslate\DocTranslate\obj\Debug\Chinese DOC Translator.pdb

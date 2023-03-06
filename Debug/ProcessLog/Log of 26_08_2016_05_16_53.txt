@@ -1,0 +1,43 @@
+26-Aug-2016 05:17:03 PM >>> website started
+26-Aug-2016 05:17:03 PM >>> upload button clicked
+26-Aug-2016 05:17:03 PM >>> file uploaded successfully
+26-Aug-2016 05:17:03 PM >>> file uploaded successfully
+26-Aug-2016 05:17:03 PM >>> file uploaded successfully
+26-Aug-2016 05:17:10 PM >>> language selected
+26-Aug-2016 05:17:16 PM >>> translate button clicked
+26-Aug-2016 05:17:24 PM >>> save translated file
+26-Aug-2016 05:17:54 PM >>> website started
+26-Aug-2016 05:17:54 PM >>> upload button clicked
+26-Aug-2016 05:17:55 PM >>> file uploaded successfully
+26-Aug-2016 05:17:55 PM >>> file uploaded successfully
+26-Aug-2016 05:17:55 PM >>> file uploaded successfully
+26-Aug-2016 05:18:00 PM >>> language selected
+26-Aug-2016 05:18:04 PM >>> translate button clicked
+26-Aug-2016 05:18:13 PM >>> save translated file
+26-Aug-2016 05:18:28 PM >>> website started
+26-Aug-2016 05:18:28 PM >>> upload button clicked
+26-Aug-2016 05:18:29 PM >>> file uploaded successfully
+26-Aug-2016 05:18:29 PM >>> file uploaded successfully
+26-Aug-2016 05:18:29 PM >>> file uploaded successfully
+26-Aug-2016 05:18:33 PM >>> language selected
+26-Aug-2016 05:18:38 PM >>> translate button clicked
+26-Aug-2016 05:18:46 PM >>> save translated file
+26-Aug-2016 05:19:13 PM >>> file copied
+26-Aug-2016 05:19:56 PM >>> website started
+26-Aug-2016 05:19:57 PM >>> upload button clicked
+26-Aug-2016 05:19:57 PM >>> file uploaded successfully
+26-Aug-2016 05:19:57 PM >>> file uploaded successfully
+26-Aug-2016 05:19:57 PM >>> file uploaded successfully
+26-Aug-2016 05:20:03 PM >>> language selected
+26-Aug-2016 05:20:08 PM >>> translate button clicked
+26-Aug-2016 05:20:13 PM >>> save translated file
+26-Aug-2016 05:20:21 PM >>> file copied
+26-Aug-2016 05:20:33 PM >>> website started
+26-Aug-2016 05:20:33 PM >>> upload button clicked
+26-Aug-2016 05:20:34 PM >>> file uploaded successfully
+26-Aug-2016 05:20:34 PM >>> file uploaded successfully
+26-Aug-2016 05:20:34 PM >>> file uploaded successfully
+26-Aug-2016 05:20:40 PM >>> language selected
+26-Aug-2016 05:20:45 PM >>> translate button clicked
+26-Aug-2016 05:20:51 PM >>> save translated file
+26-Aug-2016 05:21:02 PM >>> file copied

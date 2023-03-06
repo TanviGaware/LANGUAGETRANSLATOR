@@ -1,0 +1,10 @@
+25-Aug-2016 03:09:01 PM >>> website started
+25-Aug-2016 03:09:01 PM >>> upload button clicked
+25-Aug-2016 03:09:02 PM >>> file uploaded successfully
+25-Aug-2016 03:09:02 PM >>> file uploaded successfully
+25-Aug-2016 03:09:02 PM >>> file uploaded successfully
+25-Aug-2016 03:09:02 PM >>> file uploaded successfully
+25-Aug-2016 03:09:05 PM >>> language selected
+25-Aug-2016 03:09:49 PM >>> translate button clicked
+25-Aug-2016 03:10:36 PM >>> save translated file
+25-Aug-2016 03:10:39 PM >>> file copied
